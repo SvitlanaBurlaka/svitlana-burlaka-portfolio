@@ -1,0 +1,36 @@
+.about-me-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    border-bottom: 5px double #88888870;
+}
+
+.info-container {
+    margin-left: 70px;
+}
+
+.title-name {
+    font-size: 30px;
+    text-align: left;
+    color: #666;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.title {
+    max-width: 600px;
+    font-size: 22px;
+    text-align: left;
+    color: #666;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+
+.bio-description {
+    max-width: 850px;
+    text-transform: none;
+    color: #888;
+    margin-bottom: 100px;
+}

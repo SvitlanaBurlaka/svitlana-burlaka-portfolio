@@ -1,0 +1,35 @@
+.skills-container {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    border-bottom: 5px double #88888870;
+}
+
+.skills-title {
+    text-align: center;
+    color: #666;
+}
+
+.skills-icons-container {
+    margin-bottom: 100px;
+    margin-top: 50px;
+    column-gap: 10px;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.skill-icon {
+    width: 70px;
+    height: 70px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+@media screen and (max-width: 600px) {
+    .skill-icon {
+        width: 40px;
+        height: 40px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}
