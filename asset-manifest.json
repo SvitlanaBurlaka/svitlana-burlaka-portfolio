@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/svitlana-burlaka-portfolio/static/css/main.5f88146e.css",
-    "main.js": "/svitlana-burlaka-portfolio/static/js/main.b7810b73.js",
+    "main.css": "/svitlana-burlaka-portfolio/static/css/main.c24282de.css",
+    "main.js": "/svitlana-burlaka-portfolio/static/js/main.fac61d3e.js",
     "static/js/787.28cb0dcd.chunk.js": "/svitlana-burlaka-portfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/gif-searcher.png": "/svitlana-burlaka-portfolio/static/media/gif-searcher.42822e2b76c63171840e.png",
     "static/media/meal-sharing.png": "/svitlana-burlaka-portfolio/static/media/meal-sharing.e13b13b1e48bc8f3371b.png",
-    "static/media/gif-searcher.png": "/svitlana-burlaka-portfolio/static/media/gif-searcher.fa936ac0e45cc79d759a.png",
+    "static/media/user-searcher.png": "/svitlana-burlaka-portfolio/static/media/user-searcher.cccc4582bd56ce80e934.png",
     "static/media/todo-app.png": "/svitlana-burlaka-portfolio/static/media/todo-app.692fe50d3e5c68c27c7f.png",
     "static/media/fastest-presser-game.png": "/svitlana-burlaka-portfolio/static/media/fastest-presser-game.e46b48af7d13796edc28.png",
-    "static/media/weather-app.png": "/svitlana-burlaka-portfolio/static/media/weather-app.156b03ddf4145f1f36f1.png",
     "static/media/icon-react.png": "/svitlana-burlaka-portfolio/static/media/icon-react.809fed23bcdd686de66e.png",
     "static/media/icon-nodeJs.png": "/svitlana-burlaka-portfolio/static/media/icon-nodeJs.007e99f68b718e476aba.png",
     "static/media/git-code-link.png": "/svitlana-burlaka-portfolio/static/media/git-code-link.9e094d235b4caa7c31fc.png",
@@ -18,12 +18,12 @@
     "static/media/git-icon.png": "/svitlana-burlaka-portfolio/static/media/git-icon.db538452a3fb6ffbc088.png",
     "static/media/linkedin-icon.png": "/svitlana-burlaka-portfolio/static/media/linkedin-icon.9a1a7f8162140e296345.png",
     "index.html": "/svitlana-burlaka-portfolio/index.html",
-    "main.5f88146e.css.map": "/svitlana-burlaka-portfolio/static/css/main.5f88146e.css.map",
-    "main.b7810b73.js.map": "/svitlana-burlaka-portfolio/static/js/main.b7810b73.js.map",
+    "main.c24282de.css.map": "/svitlana-burlaka-portfolio/static/css/main.c24282de.css.map",
+    "main.fac61d3e.js.map": "/svitlana-burlaka-portfolio/static/js/main.fac61d3e.js.map",
     "787.28cb0dcd.chunk.js.map": "/svitlana-burlaka-portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f88146e.css",
-    "static/js/main.b7810b73.js"
+    "static/css/main.c24282de.css",
+    "static/js/main.fac61d3e.js"
   ]
 }
