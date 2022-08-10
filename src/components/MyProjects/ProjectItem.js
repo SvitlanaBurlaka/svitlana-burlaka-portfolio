@@ -19,7 +19,7 @@ export const ProjectItem = ({ title, img, codeLink, demoLink }) => {
             <img
               className="project-link"
               src={externalLink}
-              alt="link for git hub with code"
+              alt="link for git hub with-code"
             ></img>
           </a>
         </div>
