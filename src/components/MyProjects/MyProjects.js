@@ -3,7 +3,7 @@ import "./MyProjects.css";
 import { ProjectItem } from "./ProjectItem";
 import mealSharing from "../MyProjects/meal-sharing.png";
 import fastestPresser from "../MyProjects/fastest-presser-game.png";
-import weatherApp from "../MyProjects/weather-app.png";
+import userSearcher from "../MyProjects/user-searcher.png";
 import gifSearcher from "../MyProjects/gif-searcher.png";
 import todoApp from "../MyProjects/todo-app.png";
 
@@ -27,10 +27,10 @@ export const MyProjects = () => {
     },
     {
       id: 3,
-      title: "Weather app",
-      img: weatherApp,
-      codeLink: "https://github.com/SvitlanaBurlaka/weather-app",
-      demoLink: "https://svitlanaburlaka.github.io/weather-app/",
+      title: "Git Hub user searcher",
+      img: userSearcher,
+      codeLink: "https://github.com/SvitlanaBurlaka/github-user-searcher",
+      demoLink: "https://svitlanaburlaka.github.io/github-user-searcher/",
     },
     {
       id: 4,
@@ -50,8 +50,8 @@ export const MyProjects = () => {
 
   return (
     <section className="projects" id="projects">
-      <h3 className="projects-title">Some projects I have biuld</h3>
       <div className="projects-container">
+        <h3 className="projects-title">Some projects I have biuld</h3>
         {data.map((project) => {
           return (
             <ProjectItem
