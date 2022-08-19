@@ -31,7 +31,7 @@ a {
 
 
 .navigation-list a:hover {
-    color: rgb(237, 120, 106)
+    color: #d89d25;
 }
 
 @media screen and (max-width: 600px) {
