@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/svitlana-burlaka-portfolio/static/css/main.4a478512.css",
-    "main.js": "/svitlana-burlaka-portfolio/static/js/main.bffb42cc.js",
+    "main.css": "/svitlana-burlaka-portfolio/static/css/main.3db28340.css",
+    "main.js": "/svitlana-burlaka-portfolio/static/js/main.a28baca5.js",
     "static/js/787.28cb0dcd.chunk.js": "/svitlana-burlaka-portfolio/static/js/787.28cb0dcd.chunk.js",
     "static/media/gif-searcher.png": "/svitlana-burlaka-portfolio/static/media/gif-searcher.42822e2b76c63171840e.png",
     "static/media/meal-sharing.png": "/svitlana-burlaka-portfolio/static/media/meal-sharing.e13b13b1e48bc8f3371b.png",
     "static/media/user-searcher.png": "/svitlana-burlaka-portfolio/static/media/user-searcher.cccc4582bd56ce80e934.png",
     "static/media/todo-app.png": "/svitlana-burlaka-portfolio/static/media/todo-app.692fe50d3e5c68c27c7f.png",
     "static/media/fastest-presser-game.png": "/svitlana-burlaka-portfolio/static/media/fastest-presser-game.e46b48af7d13796edc28.png",
+    "static/media/svitlana_portrait.jpg": "/svitlana-burlaka-portfolio/static/media/svitlana_portrait.4215897ad4c848ef4e5d.jpg",
     "static/media/icon-react.png": "/svitlana-burlaka-portfolio/static/media/icon-react.809fed23bcdd686de66e.png",
     "static/media/icon-nodeJs.png": "/svitlana-burlaka-portfolio/static/media/icon-nodeJs.007e99f68b718e476aba.png",
     "static/media/git-code-link.png": "/svitlana-burlaka-portfolio/static/media/git-code-link.9e094d235b4caa7c31fc.png",
@@ -18,12 +19,12 @@
     "static/media/git-icon.png": "/svitlana-burlaka-portfolio/static/media/git-icon.db538452a3fb6ffbc088.png",
     "static/media/linkedin-icon.png": "/svitlana-burlaka-portfolio/static/media/linkedin-icon.9a1a7f8162140e296345.png",
     "index.html": "/svitlana-burlaka-portfolio/index.html",
-    "main.4a478512.css.map": "/svitlana-burlaka-portfolio/static/css/main.4a478512.css.map",
-    "main.bffb42cc.js.map": "/svitlana-burlaka-portfolio/static/js/main.bffb42cc.js.map",
+    "main.3db28340.css.map": "/svitlana-burlaka-portfolio/static/css/main.3db28340.css.map",
+    "main.a28baca5.js.map": "/svitlana-burlaka-portfolio/static/js/main.a28baca5.js.map",
     "787.28cb0dcd.chunk.js.map": "/svitlana-burlaka-portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a478512.css",
-    "static/js/main.bffb42cc.js"
+    "static/css/main.3db28340.css",
+    "static/js/main.a28baca5.js"
   ]
 }
