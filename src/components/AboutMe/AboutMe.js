@@ -1,8 +1,16 @@
 import "./AboutMe.css";
+import SvitlanaImage from "../AboutMe/svitlana_portrait.jpg";
 
 export const AboutMe = () => {
   return (
     <section className="about-me-container" id="aboutMe">
+      <div>
+        <img
+          className="portrait"
+          src={SvitlanaImage}
+          alt="Svitlana`s portrait"
+        ></img>
+      </div>
       <div className="info-container">
         <h1 className="title-name">I am Svitlana.</h1>
         <h3 className="title">

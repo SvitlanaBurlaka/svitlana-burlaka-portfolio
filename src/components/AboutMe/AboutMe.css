@@ -1,10 +1,16 @@
 .about-me-container {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     margin-top: 70px;
     margin-bottom: 50px;
     border-bottom: 5px double #88888870;
-    padding-top: 90px;
+    padding-top: 100px;
+}
+
+.portrait {
+    border-radius: 30px;
+    margin-left: 50px;
+    max-width: 400px;
 }
 
 .info-container {
@@ -15,7 +21,7 @@
 .title-name {
     font-size: 30px;
     text-align: left;
-    color: #666;
+    color: rgb(126 89 18);
     margin-bottom: 5px;
     margin-top: 5px;
 }
