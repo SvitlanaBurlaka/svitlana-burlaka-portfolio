@@ -31,3 +31,9 @@
 .email-text:hover {
     color: #de9e28;
 }
+
+@media screen and (max-width: 500px) {
+    .contact-container {
+        padding-top: 10px;
+    }
+}

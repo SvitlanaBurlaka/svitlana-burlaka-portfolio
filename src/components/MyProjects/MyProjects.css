@@ -93,4 +93,11 @@
     .project-img {
         max-width: 300px;
     }
+
+    .projects-container {
+        margin-top: 80px;
+        padding: 35px;
+        margin-bottom: 10px;
+    }
+
 }

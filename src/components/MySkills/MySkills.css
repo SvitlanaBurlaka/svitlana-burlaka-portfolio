@@ -34,3 +34,10 @@
         margin-bottom: 10px;
     }
 }
+
+@media screen and (max-width: 500px) {
+    .skills-container {
+        padding: 50px;
+        margin-top: 70px;
+    }
+}
