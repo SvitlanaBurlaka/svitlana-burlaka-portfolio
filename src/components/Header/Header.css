@@ -18,6 +18,7 @@ a {
 }
 
 .navigation-list {
+    font-weight: 700;
     padding-left: 0;
     font-size: 16px;
     color: #857e7e;

@@ -10,17 +10,19 @@
 }
 
 
-.project-card {
-    margin-bottom: 50px;
-    background-color: #f4f4f4;
+.card-container {
+    margin-bottom: 100px;
     display: flex;
-    flex-direction: column;
-    color: #555;
-    padding: 15px;
-    border: solid 6px #ebebeb;
 }
 
-
+.project-card {
+    justify-content: center;
+    display: flex;
+    max-width: 100%;
+    background-color: #f4f4f4;
+    padding: 30px;
+    border: solid 6px #ebebeb;
+}
 
 .projects-title {
     text-align: center;
@@ -28,7 +30,7 @@
 }
 
 .project-img {
-    max-width: 550px;
+    max-width: 450px;
 }
 
 .project-content {
@@ -42,9 +44,49 @@
 }
 
 .links-container {
+    margin-top: 20px;
     max-width: 100px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+}
+
+.description-container {
+    max-width: 350px;
+    color: #666;
+    display: flex;
+    flex-direction: column;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border: solid 6px #ebebeb;
+}
+
+.description-container :hover {
+    color: #e3b764;
+}
+
+.description {
+    font-size: 12px;
+}
+
+.project-title,
+.project-tools,
+.description {
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.project-title {
+    color: #916000;
+}
+
+@media screen and (max-width: 995px) {
+    .card-container {
+        flex-direction: column;
+    }
+
+    .description-container {
+        max-width: 100%;
+    }
 }
 
 @media screen and (max-width: 600px) {
