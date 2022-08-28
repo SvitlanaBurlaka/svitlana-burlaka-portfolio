@@ -6,9 +6,20 @@ import fastestPresser from "../MyProjects/fastest-presser-game.png";
 import userSearcher from "../MyProjects/user-searcher.png";
 import gifSearcher from "../MyProjects/gif-searcher.png";
 import todoApp from "../MyProjects/todo-app.png";
+import kaospilot from "../MyProjects/kaos-pilot.png";
 
 export const MyProjects = () => {
   const data = [
+    {
+      id: 6,
+      title: "Kaospilot toolbox",
+      img: kaospilot,
+      codeLink: "https://github.com/HackYourFuture-CPH/kp-toolbox-fp-class21",
+      demoLink: "https://staging-kp-toolbox-fp-class21.herokuapp.com/",
+      description:
+        "React app biuld in a teams, task was splitted between people",
+      tools: "HTML, CSS, React, NodeJS, MySQL, Docker, JIRA, Agile method",
+    },
     {
       id: 1,
       title: "Meal sharing app",
