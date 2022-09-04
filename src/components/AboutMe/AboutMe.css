@@ -103,6 +103,17 @@
         margin-left: 0px;
     }
 
+    .bio-description {
+        text-align: center;
+    }
+
+    .title-name {
+        text-align: center;
+    }
+
+    .title {
+        text-align: center;
+    }
 }
 
 @media screen and (max-width: 500px) {
@@ -111,14 +122,19 @@
     }
 
     .title {
+        text-align: center;
         font-size: 12px;
     }
 
     .about-me-container {
+        padding-top: 30px;
         margin-top: 5px;
+        margin-bottom: 30px;
     }
 
-    .bio-description {
+    .ski .bio-description {
+        text-align: center;
         font-size: 11px;
+        margin-bottom: 30px;
     }
 }

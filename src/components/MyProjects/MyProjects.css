@@ -90,13 +90,18 @@
 }
 
 @media screen and (max-width: 600px) {
+
+    .project-card {
+        padding: 7px;
+    }
+
     .project-img {
-        max-width: 300px;
+        max-width: 250px;
     }
 
     .projects-container {
         margin-top: 80px;
-        padding: 35px;
+        padding: 10px;
         margin-bottom: 10px;
     }
 
