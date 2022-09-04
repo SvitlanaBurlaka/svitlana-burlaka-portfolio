@@ -1,6 +1,8 @@
 import "./ContactMe.css";
 import gitContact from "../ContactMe/git-code-link.png";
 import linkedin from "../ContactMe/linkedin-icon.png";
+import PDFfile from "../ContactMe/Svitlana-CV.pdf";
+import download from "../ContactMe/resume-download-icon.png";
 
 export const ContactMe = () => {
   return (
@@ -20,6 +22,14 @@ export const ContactMe = () => {
           rel="noreferrer"
         >
           <img className="contact-icon" src={linkedin} alt="git-icon"></img>
+        </a>
+        <a
+          href={PDFfile}
+          download="Svitlana`s CV"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img className="contact-icon" src={download} alt="CV-icon"></img>
         </a>
       </div>
       <p className="email-text">burlaka.sv.7@gmail.com</p>
