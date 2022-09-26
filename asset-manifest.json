@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/svitlana-burlaka-portfolio/static/css/main.48c472f9.css",
-    "main.js": "/svitlana-burlaka-portfolio/static/js/main.c2286f93.js",
+    "main.css": "/svitlana-burlaka-portfolio/static/css/main.25612aa4.css",
+    "main.js": "/svitlana-burlaka-portfolio/static/js/main.bd881e3f.js",
     "static/js/787.28cb0dcd.chunk.js": "/svitlana-burlaka-portfolio/static/js/787.28cb0dcd.chunk.js",
     "static/media/gif-searcher.png": "/svitlana-burlaka-portfolio/static/media/gif-searcher.42822e2b76c63171840e.png",
     "static/media/meal-sharing.png": "/svitlana-burlaka-portfolio/static/media/meal-sharing.e13b13b1e48bc8f3371b.png",
@@ -22,12 +22,12 @@
     "static/media/git-icon.png": "/svitlana-burlaka-portfolio/static/media/git-icon.db538452a3fb6ffbc088.png",
     "static/media/linkedin-icon.png": "/svitlana-burlaka-portfolio/static/media/linkedin-icon.9a1a7f8162140e296345.png",
     "index.html": "/svitlana-burlaka-portfolio/index.html",
-    "main.48c472f9.css.map": "/svitlana-burlaka-portfolio/static/css/main.48c472f9.css.map",
-    "main.c2286f93.js.map": "/svitlana-burlaka-portfolio/static/js/main.c2286f93.js.map",
+    "main.25612aa4.css.map": "/svitlana-burlaka-portfolio/static/css/main.25612aa4.css.map",
+    "main.bd881e3f.js.map": "/svitlana-burlaka-portfolio/static/js/main.bd881e3f.js.map",
     "787.28cb0dcd.chunk.js.map": "/svitlana-burlaka-portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.48c472f9.css",
-    "static/js/main.c2286f93.js"
+    "static/css/main.25612aa4.css",
+    "static/js/main.bd881e3f.js"
   ]
 }
