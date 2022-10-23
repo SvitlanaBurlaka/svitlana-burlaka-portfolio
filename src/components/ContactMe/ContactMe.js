@@ -1,8 +1,5 @@
 import "./ContactMe.css";
-import gitContact from "../ContactMe/git-code-link.png";
-import linkedin from "../ContactMe/linkedin-icon.png";
-import PDFfile from "../ContactMe/Svitlana-CV.pdf";
-import download from "../ContactMe/resume-download-icon.png";
+import PDFfile from "../../data/Svitlana-CV.pdf";
 
 export const ContactMe = () => {
   return (
@@ -14,14 +11,22 @@ export const ContactMe = () => {
           target="_blank"
           rel="noreferrer"
         >
-          <img className="contact-icon" src={gitContact} alt="git-icon"></img>
+          <img
+            className="contact-icon"
+            src="/svitlana-burlaka-portfolio/assets/git-code-link.png"
+            alt="git-icon"
+          ></img>
         </a>
         <a
           href="https://www.linkedin.com/in/svitlana-burlaka-ab6304238/"
           target="_blank"
           rel="noreferrer"
         >
-          <img className="contact-icon" src={linkedin} alt="git-icon"></img>
+          <img
+            className="contact-icon"
+            src="/svitlana-burlaka-portfolio/assets/linkedin-icon.png"
+            alt="linkedin-icon"
+          ></img>
         </a>
         <a
           href={PDFfile}
@@ -29,7 +34,11 @@ export const ContactMe = () => {
           target="_blank"
           rel="noreferrer"
         >
-          <img className="contact-icon" src={download} alt="CV-icon"></img>
+          <img
+            className="contact-icon"
+            src="/svitlana-burlaka-portfolio/assets/resume-download-icon.png"
+            alt="CV-icon"
+          ></img>
         </a>
       </div>
       <p className="email-text">burlaka.sv.7@gmail.com</p>

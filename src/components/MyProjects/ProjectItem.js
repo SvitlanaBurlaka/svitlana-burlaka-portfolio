@@ -1,6 +1,3 @@
-import gitLink from "../MyProjects/git-code-link.png";
-import externalLink from "../MyProjects/external-link.png";
-
 export const ProjectItem = ({ item }) => {
   return (
     <div className="card-container">
@@ -22,14 +19,14 @@ export const ProjectItem = ({ item }) => {
             <a href={item.codeLink} target="_blank" rel="noreferrer">
               <img
                 className="project-link"
-                src={gitLink}
+                src="/svitlana-burlaka-portfolio/assets/git-code-link.png"
                 alt="link for git hub with code"
               ></img>
             </a>
             <a href={item.demoLink} target="_blank" rel="noreferrer">
               <img
                 className="project-link"
-                src={externalLink}
+                src="/svitlana-burlaka-portfolio/assets/external-link.png"
                 alt="link for git hub with-code"
               ></img>
             </a>

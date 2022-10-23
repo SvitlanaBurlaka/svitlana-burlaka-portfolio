@@ -6,7 +6,7 @@ export const AboutMe = () => {
       <div>
         <img
           className="portrait"
-          src="assets/svitlana-portrait.jpg"
+          src="/svitlana-burlaka-portfolio/assets/svitlana-portrait.jpg"
           alt="Svitlana`s portrait"
         ></img>
       </div>
