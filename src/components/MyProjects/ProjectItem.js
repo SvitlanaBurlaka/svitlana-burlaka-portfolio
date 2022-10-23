@@ -1,15 +1,7 @@
 import gitLink from "../MyProjects/git-code-link.png";
 import externalLink from "../MyProjects/external-link.png";
 
-export const ProjectItem = ({
-  item,
-  // title,
-  // img,
-  // codeLink,
-  // demoLink,
-  // description,
-  // tools,
-}) => {
+export const ProjectItem = ({ item }) => {
   return (
     <div className="card-container">
       <div className="project-card">

@@ -2,7 +2,7 @@ const projects = [
   {
     id: 6,
     title: "Kaospilot toolbox",
-    image: "assets/kaos-pilot.png",
+    image: "/assets/kaos-pilot.png",
     codeLink: "https://github.com/HackYourFuture-CPH/kp-toolbox-fp-class21",
     demoLink: "https://staging-kp-toolbox-fp-class21.herokuapp.com/",
     description: "React app biuld in a teams, task was splitted between people",
@@ -11,7 +11,7 @@ const projects = [
   {
     id: 1,
     title: "Meal sharing app",
-    image: "assets/meal-sharing.png",
+    image: "/assets/meal-sharing.png",
     codeLink: "https://github.com/SvitlanaBurlaka/meal-sharing",
     demoLink: "https://hyf-meal-sharing-test.herokuapp.com/",
     description:
@@ -21,7 +21,7 @@ const projects = [
   {
     id: 2,
     title: "Fastest Presser",
-    image: "assets/fastest-presser-game.png",
+    image: "/assets/fastest-presser-game.png",
     codeLink:
       "https://github.com/SvitlanaBurlaka/fastest-presser-game.github.io",
     demoLink:
@@ -33,7 +33,7 @@ const projects = [
   {
     id: 3,
     title: "Git Hub user searcher",
-    image: "assets/user-searcher.png",
+    image: "/assets/user-searcher.png",
     codeLink: "https://github.com/SvitlanaBurlaka/github-user-searcher",
     demoLink: "https://svitlanaburlaka.github.io/github-user-searcher/",
     description: "App where you can search user by name on GitHub.",
@@ -42,7 +42,7 @@ const projects = [
   {
     id: 4,
     title: "GIF searcher",
-    image: "assets/gif-searcher.png",
+    image: "/assets/gif-searcher.png",
     codeLink: "https://github.com/SvitlanaBurlaka/gif-searcher",
     demoLink: "https://svitlanaburlaka.github.io/gif-searcher/",
     description: "User can search GIF`s by name and number.",
@@ -51,7 +51,7 @@ const projects = [
   {
     id: 5,
     title: "Todo app",
-    image: "assets/todo-app.png",
+    image: "/assets/todo-app.png",
     codeLink: "https://github.com/SvitlanaBurlaka/todo-app",
     demoLink: "https://svitlanaburlaka.github.io/todo-app/",
     description:
