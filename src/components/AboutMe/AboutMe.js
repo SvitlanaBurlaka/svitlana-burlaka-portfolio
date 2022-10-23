@@ -1,5 +1,4 @@
 import "./AboutMe.css";
-import SvitlanaImage from "../AboutMe/svitlana_portrait.jpg";
 
 export const AboutMe = () => {
   return (
@@ -7,7 +6,7 @@ export const AboutMe = () => {
       <div>
         <img
           className="portrait"
-          src={SvitlanaImage}
+          src="assets/svitlana-portrait.jpg"
           alt="Svitlana`s portrait"
         ></img>
       </div>
