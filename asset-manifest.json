@@ -1,14 +1,8 @@
 {
   "files": {
     "main.css": "/svitlana-burlaka-portfolio/static/css/main.d41e04d4.css",
-    "main.js": "/svitlana-burlaka-portfolio/static/js/main.bd881e3f.js",
+    "main.js": "/svitlana-burlaka-portfolio/static/js/main.cfa10d1a.js",
     "static/js/787.28cb0dcd.chunk.js": "/svitlana-burlaka-portfolio/static/js/787.28cb0dcd.chunk.js",
-    "static/media/gif-searcher.png": "/svitlana-burlaka-portfolio/static/media/gif-searcher.42822e2b76c63171840e.png",
-    "static/media/meal-sharing.png": "/svitlana-burlaka-portfolio/static/media/meal-sharing.e13b13b1e48bc8f3371b.png",
-    "static/media/kaos-pilot.png": "/svitlana-burlaka-portfolio/static/media/kaos-pilot.a39eedafc39eefc076b2.png",
-    "static/media/user-searcher.png": "/svitlana-burlaka-portfolio/static/media/user-searcher.cccc4582bd56ce80e934.png",
-    "static/media/todo-app.png": "/svitlana-burlaka-portfolio/static/media/todo-app.692fe50d3e5c68c27c7f.png",
-    "static/media/fastest-presser-game.png": "/svitlana-burlaka-portfolio/static/media/fastest-presser-game.e46b48af7d13796edc28.png",
     "static/media/Svitlana-CV.pdf": "/svitlana-burlaka-portfolio/static/media/Svitlana-CV.5f846f3184e7f374bfe1.pdf",
     "static/media/svitlana_portrait.jpg": "/svitlana-burlaka-portfolio/static/media/svitlana_portrait.4215897ad4c848ef4e5d.jpg",
     "static/media/icon-react.png": "/svitlana-burlaka-portfolio/static/media/icon-react.809fed23bcdd686de66e.png",
@@ -23,11 +17,11 @@
     "static/media/linkedin-icon.png": "/svitlana-burlaka-portfolio/static/media/linkedin-icon.9a1a7f8162140e296345.png",
     "index.html": "/svitlana-burlaka-portfolio/index.html",
     "main.d41e04d4.css.map": "/svitlana-burlaka-portfolio/static/css/main.d41e04d4.css.map",
-    "main.bd881e3f.js.map": "/svitlana-burlaka-portfolio/static/js/main.bd881e3f.js.map",
+    "main.cfa10d1a.js.map": "/svitlana-burlaka-portfolio/static/js/main.cfa10d1a.js.map",
     "787.28cb0dcd.chunk.js.map": "/svitlana-burlaka-portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d41e04d4.css",
-    "static/js/main.bd881e3f.js"
+    "static/js/main.cfa10d1a.js"
   ]
 }
