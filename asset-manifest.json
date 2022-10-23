@@ -1,27 +1,16 @@
 {
   "files": {
     "main.css": "/svitlana-burlaka-portfolio/static/css/main.d41e04d4.css",
-    "main.js": "/svitlana-burlaka-portfolio/static/js/main.f248c90e.js",
+    "main.js": "/svitlana-burlaka-portfolio/static/js/main.4ac6a151.js",
     "static/js/787.28cb0dcd.chunk.js": "/svitlana-burlaka-portfolio/static/js/787.28cb0dcd.chunk.js",
     "static/media/Svitlana-CV.pdf": "/svitlana-burlaka-portfolio/static/media/Svitlana-CV.5f846f3184e7f374bfe1.pdf",
-    "static/media/svitlana_portrait.jpg": "/svitlana-burlaka-portfolio/static/media/svitlana_portrait.4215897ad4c848ef4e5d.jpg",
-    "static/media/icon-react.png": "/svitlana-burlaka-portfolio/static/media/icon-react.809fed23bcdd686de66e.png",
-    "static/media/icon-nodeJs.png": "/svitlana-burlaka-portfolio/static/media/icon-nodeJs.007e99f68b718e476aba.png",
-    "static/media/git-code-link.png": "/svitlana-burlaka-portfolio/static/media/git-code-link.9e094d235b4caa7c31fc.png",
-    "static/media/icon-html.png": "/svitlana-burlaka-portfolio/static/media/icon-html.a92a549a591f4acb527a.png",
-    "static/media/icon-css.png": "/svitlana-burlaka-portfolio/static/media/icon-css.02d225c7df0b28341d8d.png",
-    "static/media/icon-javaScript.png": "/svitlana-burlaka-portfolio/static/media/icon-javaScript.38323140666580081f57.png",
-    "static/media/icon-sql.png": "/svitlana-burlaka-portfolio/static/media/icon-sql.d547b0709f539ca0434c.png",
-    "static/media/resume-download-icon.png": "/svitlana-burlaka-portfolio/static/media/resume-download-icon.1386d5a0388d6514884f.png",
-    "static/media/git-icon.png": "/svitlana-burlaka-portfolio/static/media/git-icon.db538452a3fb6ffbc088.png",
-    "static/media/linkedin-icon.png": "/svitlana-burlaka-portfolio/static/media/linkedin-icon.9a1a7f8162140e296345.png",
     "index.html": "/svitlana-burlaka-portfolio/index.html",
     "main.d41e04d4.css.map": "/svitlana-burlaka-portfolio/static/css/main.d41e04d4.css.map",
-    "main.f248c90e.js.map": "/svitlana-burlaka-portfolio/static/js/main.f248c90e.js.map",
+    "main.4ac6a151.js.map": "/svitlana-burlaka-portfolio/static/js/main.4ac6a151.js.map",
     "787.28cb0dcd.chunk.js.map": "/svitlana-burlaka-portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d41e04d4.css",
-    "static/js/main.f248c90e.js"
+    "static/js/main.4ac6a151.js"
   ]
 }
