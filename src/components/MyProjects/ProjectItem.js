@@ -14,7 +14,11 @@ export const ProjectItem = ({
     <div className="card-container">
       <div className="project-card">
         <a href={item.demoLink}>
-          <img className="project-img" src={item.img} alt="project-card"></img>
+          <img
+            className="project-img"
+            src={process.env.PUBLIC_URL + item.image}
+            alt="project-card"
+          ></img>
         </a>
       </div>
       <div className="description-container">
